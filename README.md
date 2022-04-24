@@ -1,1 +1,1 @@
-# galaxy_merge_sequence
+# Galaxy Merge
